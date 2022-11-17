@@ -5,5 +5,8 @@ BanDal 언어의 파이썬 버전 컴파일러입니다.<br>
 공식 디스코드 서버: https://discord.gg/r4x6cmnxk9<br>
 공식 깃허브: https://github.com/bandal-dev
 
+# Reference
+[Rectapy](https://github.com/devonnuri/RectaPy)
+
 <br><br>
 본 소스코드는 오픈 소스이며 제 3자의 배포 및 가공을 적극 권장합니다.
