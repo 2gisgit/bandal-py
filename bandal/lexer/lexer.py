@@ -113,9 +113,6 @@ class LexToken(object):
 	def __str__(self):
 		return self.__re
 
-	def split(self, r=' '):
-		return self.__re.split(r)
-
 
 class Lexer(object):
 
