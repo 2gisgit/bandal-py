@@ -9,4 +9,4 @@ BanDal 언어의 파이썬 버전 컴파일러입니다.<br>
 [Rectapy](https://github.com/devonnuri/RectaPy)
 
 <br><br>
-본 소스코드는 오픈 소스이며 제 3자의 배포 및 가공을 적극 권장합니다.
+본 소스코드는 오픈 소스이며 제 3자의 배포 및 수정을 적극 권장합니다.
